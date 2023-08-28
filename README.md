@@ -19,12 +19,14 @@ All the image and icon links have been taken from the main website ( https://www
 
 **Home Page :**
 
-![Screenshot (175)](https://github.com/YuvrajNarayanMishra/MyntraClone_MajorProject/assets/99082388/8a0807f9-166d-4473-af23-2a9993fa09af) 
+ ![Screenshot (175)](https://github.com/YuvrajNarayanMishra/MyntraClone_MajorProject/assets/99082388/11da6eba-5720-4e52-92fa-db693f5b3596)
+
 
 **Login/SignUp Page :**
 
 ![Screenshot (176)](https://github.com/YuvrajNarayanMishra/MyntraClone_MajorProject/assets/99082388/58d16021-8473-4886-b0e8-5274e9d6e873) 
 
-**Item added to Bag Page :**
+
+**Shopping Bag Page :**
 
 ![Screenshot (177)](https://github.com/YuvrajNarayanMishra/MyntraClone_MajorProject/assets/99082388/7750ab70-fdc5-4096-b7f9-becb8f56ef95)
