@@ -10,6 +10,7 @@ In this project we have used the following technologies:
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ## Libraries Used:
 
