@@ -1,4 +1,4 @@
-# Myntra (Clone) - Major Project
+# Myntra (Clone) - Mini Project
 
 In this project I have tried to make a look alike clone of Myntra Website with similar looks and features.The technology stack used - HTML, CSS and JAVASCRIPT.
 Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products, Myntra aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal. 
